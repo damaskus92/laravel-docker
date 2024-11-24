@@ -1,6 +1,6 @@
 # Laravel 11 with Docker
 
-This guide explains how to clone and set up a Laravel 11 project using Docker. The repository includes a `docker-compose.yml` configuration and a `Dockerfile` to simplify development.
+This guide is a Laravel 11 project setup using Docker that includes a `docker-compose.yml` configuration and `Dockerfile` to simplify development.
 
 ## Prerequisites
 
